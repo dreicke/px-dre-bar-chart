@@ -13,7 +13,7 @@
 
 <!-- Imports for this componnent -->
 <link rel="import" href="../../px-demo/css/px-demo-styles.html" />
-<link rel="import" href="../px-simple-area-chart.html" />
+<link rel="import" href="../px-dre-bar-chart.html" />
 
 <!-- Demo DOM module -->
 <dom-module id="local-element-demo">
@@ -22,8 +22,8 @@
 
     <!-- Header -->
     <px-demo-header
-        module-name="px-simple-area-chart"
-        description="The px-simple-area-chart component is...">
+        module-name="px-dre-bar-chart"
+        description="The px-dre-bar-chart component is...">
     </px-demo-header>
 
     <!-- Interactive -->
@@ -36,7 +36,7 @@
 
       <!-- Component ---------------------------------------------------------->
       <px-demo-component>
-        <px-simple-area-chart
+        <px-dre-bar-chart
           prevent-resize="[[props.preventResize.value]]"
           width="[[props.width.value]]"
           height="[[props.height.value]]"
@@ -44,18 +44,18 @@
           chart-data="[[props.chartData.value]]"
           series-config="[[props.seriesConfig.value]]"
           >
-        </px-simple-area-chart>
+        </px-dre-bar-chart>
       </px-demo-component>
       <!-- END Component ------------------------------------------------------>
 
       <px-demo-component-snippet
           element-properties="{{props}}"
-          element-name="px-simple-area-chart">
+          element-name="px-dre-bar-chart">
       </px-demo-component-snippet>
     </px-demo-interactive>
 
     <!-- API Viewer -->
-    <px-demo-api-viewer source="px-simple-area-chart"></px-demo-api-viewer>
+    <px-demo-api-viewer source="px-dre-bar-chart"></px-demo-api-viewer>
 
     <!-- Footer -->
     <px-demo-footer></px-demo-footer>
@@ -278,62 +278,62 @@
       chartData: {
         type: Array,
         defaultValue: [{
-            "x": 1397102460000,
+            "x": "A",
             "y2": 23,
             "y1": 30,
             "y": 56
           },{
-            "x": 1397139660000,
+            "x": "B",
             "y2": 20,
             "y1": 35,
             "y": 40
           },{
-            "x": 1397177400000,
+            "x": "C",
             "y2": 28,
             "y1": 40,
             "y": 43
           },{
-            "x": 1397228040000,
+            "x": "D",
             "y2": 25,
             "y1": 38,
             "y": 33
           },{
-            "x": 1397248260000,
+            "x": "E",
             "y2": 26,
             "y1": 33,
             "y": 47
           },{
-            "x": 1397291280000,
+            "x": "F",
             "y2": 30,
             "y1": 40,
             "y": 41
           },{
-            "x": 1397318100000,
+            "x": "G",
             "y2": 32,
             "y1": 30,
             "y": 26
           },{
-            "x": 1397342100000,
+            "x": "H",
             "y2": 28,
             "y1": 35,
             "y": 42
           },{
-            "x": 1397390820000,
+            "x": "I",
             "y2": 35,
             "y1": 40,
             "y": 27
           },{
-            "x": 1397408100000,
+            "x": "J",
             "y2": 35,
             "y1": 34,
             "y": 38
           },{
-            "x": 1397458800000,
+            "x": "K",
             "y2": 40,
             "y1": 38,
             "y": 36
           },{
-            "x": 1397522940000,
+            "x": "L",
             "y2": 35,
             "y1": 40,
             "y": 32
