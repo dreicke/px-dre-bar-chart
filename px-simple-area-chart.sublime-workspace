@@ -1,0 +1,942 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"box",
+				"boxSize"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"data",
+				"dataFactoryModule"
+			],
+			[
+				"boo",
+				"bootstrap-js"
+			],
+			[
+				"pip",
+				"pipelineZoom"
+			],
+			[
+				"zoo",
+				"zoomHCA"
+			],
+			[
+				"highlight",
+				"highlightUtility"
+			],
+			[
+				"highligh",
+				"highlightUtility"
+			],
+			[
+				"isP",
+				"isPipelineZoomed"
+			],
+			[
+				"is",
+				"isPipelineZoomed"
+			],
+			[
+				"remo",
+				"removePipelineZoom"
+			],
+			[
+				"remove",
+				"removePipelineZoom"
+			],
+			[
+				"update",
+				"updateSelection"
+			],
+			[
+				"pipeli",
+				"pipelineEventIds"
+			],
+			[
+				"Ac",
+				"ActivePipelineStatus"
+			],
+			[
+				"selec",
+				"selectedPipelineToView"
+			],
+			[
+				"pre",
+				"precipitationData"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"filt",
+				"filterHighlight"
+			],
+			[
+				"end",
+				"endDateSW"
+			],
+			[
+				"start",
+				"startDateSW"
+			],
+			[
+				"selected",
+				"selectedRegion"
+			],
+			[
+				"filterHi",
+				"filterHighlightData"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"removeE",
+				"removeExtraElementsFromMap"
+			],
+			[
+				"high",
+				"highlightLayer"
+			],
+			[
+				"hi",
+				"highlightLayer"
+			],
+			[
+				"pol",
+				"polygonLayer"
+			],
+			[
+				"val",
+				"valueOf"
+			],
+			[
+				"icon",
+				"iconClusterXRef"
+			],
+			[
+				"reg",
+				"regionIndex"
+			],
+			[
+				"line",
+				"linearAssetIndex"
+			],
+			[
+				"getFil",
+				"getFilterHighlights"
+			],
+			[
+				"clu",
+				"clusterCount"
+			],
+			[
+				"object",
+				"objectType"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"cluster",
+				"cluster-indicator"
+			],
+			[
+				"flood",
+				"floodLayer"
+			],
+			[
+				"sele",
+				"selectedSearch"
+			],
+			[
+				"valv",
+				"valve"
+			],
+			[
+				"objetc",
+				"objectType"
+			],
+			[
+				"ob",
+				"objectType"
+			],
+			[
+				"valu",
+				"valueOf"
+			],
+			[
+				"layertype_",
+				"layerType_mainLineValveSegment_renderOptions"
+			],
+			[
+				"dyn",
+				"dynamicsegment"
+			],
+			[
+				"min",
+				"minZoom"
+			],
+			[
+				"get",
+				"getZoom"
+			],
+			[
+				"PL",
+				"PLTerminator"
+			],
+			[
+				"cur",
+				"curZIndex"
+			],
+			[
+				"layer",
+				"layerInsertType"
+			],
+			[
+				"layerType_pipel",
+				"layerType_pipelineMarkerCircles"
+			],
+			[
+				"valves",
+				"valvesTerminalCirclesLayer"
+			],
+			[
+				"layerType_pipe",
+				"layerType_pipelineMarkerCircles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "px-simple-area-chart.html",
+			"settings":
+			{
+				"buffer_size": 7286,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo/index.html",
+			"settings":
+			{
+				"buffer_size": 11397,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower_components/px-vis/px-vis-behavior-chart.html",
+			"settings":
+			{
+				"buffer_size": 71683,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower_components/px-vis/px-vis-behavior-common.html",
+			"settings":
+			{
+				"buffer_size": 71561,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 186.0,
+		"history":
+		[
+			"sort_selection",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/212432050/dev/px-simple-area-chart",
+		"/Users/212432050/dev/px-simple-area-chart/bower_components"
+	],
+	"file_history":
+	[
+		"/Users/212432050/dev/px-simple-area-chart/bower_components/px-vis/px-vis-behavior-d3.html",
+		"/Users/212432050/dev/px-vis/demo/px-vis-bar-svg-demo.html",
+		"/Users/212432050/dev/px-vis/demo/px-vis-bar-svg-demo-component.html",
+		"/Users/212432050/dev/px-vis/px-vis-bar-svg.html",
+		"/Users/212432050/dev/px-vis/px-vis-behavior-chart.html",
+		"/Users/212432050/dev/px-vis/px-vis-behavior-common.html",
+		"/Users/212432050/dev/px-vis/bower.json",
+		"/Users/212432050/dev/px-vis/px-vis.html",
+		"/Users/212432050/dev/px-vis/px-vis-behavior-datetime.html",
+		"/Users/212432050/dev/px-vis/px-vis-behavior-axis-drag.html",
+		"/Users/212432050/dev/px-vis/px-vis-behavior-scale.html",
+		"/Users/212432050/dev/px-vis/px-vis-behavior-register.html",
+		"/Users/212432050/dev/px-vis/px-vis-behavior-d3.html",
+		"/Users/212432050/dev/px-dre-line-chart/bower.json",
+		"/Users/212432050/dev/predix-seed/public/elements/seed-app/seed-app.html",
+		"/Users/212432050/dev/predix-seed/server/sample-data/time-series/simple-data/simple-data-4.json",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-theme/px-theme-styles.html",
+		"/Users/212432050/dev/predix-seed/public/index.html",
+		"/Users/212432050/dev/predix-seed/server/sample-data/time-series/simple-data/simple-data-1.json",
+		"/Users/212432050/dev/predix-seed/server/sample-data/time-series/simple-data/simple-data-2.json",
+		"/Users/212432050/dev/predix-seed/server/sample-data/time-series/simple-data/simple-data-3.json",
+		"/Users/212432050/dev/predix-seed/public/elements/views/dashboards-view.html",
+		"/Users/212432050/dev/predix-seed/public/elements/views/blankpage-view.html",
+		"/Users/212432050/dev/predix-seed/server/sample-data/time-series/fan-vibration/fan-vibration-cruise.json",
+		"/Users/212432050/dev/predix-seed/server/sample-data/time-series/core-vibe/core-vibe-rear-cruise.json",
+		"/Users/212432050/dev/predix-seed/node_modules/express/lib/router/route.js",
+		"/Users/212432050/dev/predix-seed/server/app.js",
+		"/Users/212432050/dev/predix-seed/public/bower_components/iron-ajax/iron-request.html",
+		"/Users/212432050/dev/predix-seed/node_modules/express/lib/express.js",
+		"/Users/212432050/dev/predix-seed/node_modules/express/lib/router/index.js",
+		"/Users/212432050/dev/predix-seed/server/proxy.js",
+		"/Users/212432050/dev/predix-seed/server/predix-config.js",
+		"/Users/212432050/dev/predix-seed/server/passport-config.js",
+		"/Users/212432050/dev/predix-seed/server/localConfig.json",
+		"/Users/212432050/dev/predix-seed/server/sample-data/time-series/area/area-multi.json",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-simple-area-chart/demo_data/multi.json",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-widget-cards/px-threeup.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-simple-line-chart/px-simple-line-chart.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-simple-area-chart/demo_data/single.json",
+		"/Users/212432050/dev/predix-seed/server/time-series-routes.js",
+		"/Users/212432050/dev/predix-seed/public/bower_components/iron-ajax/iron-ajax.html",
+		"/Users/212432050/dev/predix-seed/server/view-service-routes.js",
+		"/Users/212432050/dev/predix-seed/server/predix-asset-routes.js",
+		"/Users/212432050/dev/predix-seed/public/bower_components/eq.js/README.md",
+		"/Users/212432050/dev/predix-seed/public/bower_components/eq.js/dist/eq.min.js",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-deck-selector/px-deck-selector.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-rpm-component/css/px-rpm-component-styles.html",
+		"/Users/212432050/dev/predix-seed/bower.json",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-popover/css/px-popover-styles.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-popover/px-popover.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/vaadin-combo-box/demo/common.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/vaadin-combo-box/vaadin-combo-box.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/px-popover/index.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/vaadin-combo-box/demo/index.html",
+		"/Users/212432050/dev/predix-seed/public/bower_components/vaadin-combo-box/bower.json",
+		"/Users/212432050/Downloads/gh_pages.txt",
+		"/Users/212432050/dev/px-rpm-component/bower_components/px-modal/px-modal.html",
+		"/Users/212432050/dev/px-rpm-component/bower_components/px-overlay/px-overlay.html",
+		"/Users/212432050/dev/px-rpm-component/bower_components/px-overlay/demo/index.html",
+		"/Users/212432050/dev/px-rpm-component/bower_components/px-overlay/index.html",
+		"/Users/212432050/dev/px-rpm-component/bower_components/px-demo/px-demo-configs.html",
+		"/Users/212432050/dev/px-rpm-component/index.html",
+		"/Users/212432050/dev/px-rpm-component/css/px-rpm-component-styles.html",
+		"/Users/212432050/dev/px-rpm-component/dist/px-rpm-component.js",
+		"/Users/212432050/dev/px-rpm-component/bower_components/px-colors-design/_settings.colors.scss",
+		"/Users/212432050/dev/px-rpm-component/gulpfile.js",
+		"/Users/212432050/dev/px-rpm-component/package.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/stub/nav.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/dist/www/data-service.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/dist/www/nav-service.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/gulpfile.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/Gruntfile.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/system.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/data-service.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/json.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/how-to-add.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/overview.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/ui-leaflet/dist/ui-leaflet.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/map/controllers/map.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/map/views/map.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/map/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/dist/www/index.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7/dist/index.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/config.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7/dist/angular-simple-logger.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/jspm_packages/npm/angular-simple-logger@0.1.7/package.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/angular-simple-logger/dist/angular-simple-logger.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/styles/app.scss",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/styles/_module.scss",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/leaflet/dist/leaflet.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/controllers/json.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/controllers/howtoadd.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/views/installation.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/data/superheroes.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/overview/controllers/installation.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/views/a.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/one/views/b.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/context/views/context.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/styles/styles.css",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/cards/views/cards.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/cards/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/layouts/views/layouts.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/barcharts/views/barcharts.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/gauges/views/gauges.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/timeseries/views/timeseries.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrid/views/datagrid.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives/views/ui-bootstrap-directives.html",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/context/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/datagrid/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/barcharts/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/gauges/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/timeseries/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/chart-line/dist/chart-line.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/chart-line/dist/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/layouts/controllers/layouts.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/layouts/module.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/timeseries/controllers/timeseries.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/app-nav/app-nav.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/app-controller.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/public/bower_components/datagrid/dist/datagrid.js",
+		"/Users/212432050/Desktop/sample_data.js",
+		"/Users/212432050/dev/es6-jspm-bootstrap/.gitignore",
+		"/Users/212432050/dev/es6-jspm-bootstrap/bower.json",
+		"/Users/212432050/dev/es6-jspm-bootstrap/.bowerrc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/212432050/dev/px-vis",
+			"/Users/212432050/dev/px-vis/px-vis-behavior-common.html",
+			"/Users/212432050/dev/px-vis",
+			"/Users/212432050/dev/px-dre-line-chart",
+			"/Users/212432050/dev/px-dre-line-chart/bower_components",
+			"/Users/212432050/dev/predix-seed/node_modules/express",
+			"/Users/212432050/dev/predix-seed",
+			"/Users/212432050/dev/predix-seed/public",
+			"/Users/212432050/dev/predix-seed/public/elements",
+			"/Users/212432050/dev/predix-seed/public",
+			"/Users/212432050/dev/predix-seed/public/bower_components/vaadin-combo-box",
+			"/Users/212432050/dev/px-rpm-component",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public/modules",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public/modules/ui-bootstrap-directives",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public/modules",
+			"/Users/212432050/dev/es6-jspm-bootstrap/public",
+			"/Users/212432050/dev/es6-jspm-bootstrap",
+			"/Users/212432050/dev/px-bootstrap-rpm",
+			"/Users/212432050/dev/angular-iidx",
+			"/Users/212432050/dev/bootstrap-experiment-static-master",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/map-markers",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/views",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/views/partials",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm-services",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/map-markers/js",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/views/partials",
+			"/Users/212432050/dev/ips/ipms/trunk",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/bower_components/iids/components/map-core",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public/scripts",
+			"/Users/212432050/dev/ips/ipms/trunk/ipm/public",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui/ipm-webapp/public",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui/ipm-webapp",
+			"/Users/212432050/dev/ips/svn/asgipm/trunk/ipm-ui/ipm-webapp/public",
+			"/Users/212432050/dev/angular-iidx/app/bower_components/iids-dist/components",
+			"/Users/212432050/dev/grid-iq-demo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"completeseries",
+			"seriesconfig",
+			"subconfiguration",
+			"computekeyseriesdict",
+			"_[a-zA-Z]+seriesConfig",
+			"seriesConfig",
+			"completeSeriesConfig",
+			"series",
+			"includeAllSeries",
+			" =",
+			"pxvisbehaviortime.[a-zA-Z0-9]+ = ",
+			"pxvisbehaviordrag.[a-zA-Z0-9]+ = ",
+			"pxvisbehavioraxisdrag.[a-zA-Z0-9]+ = ",
+			"pxvisbehaviorscale.[a-zA-Z0-9]+ = ",
+			"pxvisbehaviorregister.[a-zA-Z0-9]+ = ",
+			"pxvisbehaviorchart.[a-zA-Z0-9]+ = ",
+			"pxvisbehaviorchart.[a-zA-Z0-9] = ",
+			"pxvisbehaviord3.[a-zA-Z0-9]+ = ",
+			"pxvisbehavior.[a-zA-Z0-9]+ = ",
+			"pxvisbehavior.[a-zA-Z0-9]+ =",
+			"pxvisbehavior.[a-zA-Z0-9] =",
+			"@polymerbehavior",
+			"pxvisbehavior.",
+			"_returnType",
+			"time",
+			"px-vis-spark",
+			"prerelease",
+			"line-height",
+			"Resource",
+			"simple-data",
+			"simple-data-values-b",
+			"_simpleDataValuesB",
+			"three-widgets-card",
+			"px-three-widgets",
+			"px-three-widgets-card",
+			"items",
+			"oxygen",
+			"elements",
+			"host",
+			"shields.io",
+			"shield.io",
+			"handleClick",
+			"_handleTextInput",
+			"filter",
+			"require",
+			"CardsCtrl",
+			"CardsModule",
+			"ul",
+			"h5",
+			"ui-sref",
+			"fa-wrench",
+			"dashboard",
+			"Dashboard",
+			"dashboard",
+			"DashboardCtrl",
+			"ES6ComponentsModule",
+			"es6components",
+			"ES6ComponentsCtrl",
+			"navserv",
+			"vm.",
+			"es6components",
+			"ES6Components",
+			"es6components",
+			"ES6Components",
+			"es6components",
+			"vm.",
+			"es6components",
+			"ES6ComponentsCtrl",
+			"DatagridModule",
+			"_module",
+			"h2",
+			"ui.router",
+			"angular-ui-router",
+			"UIBSD",
+			"ui-bootstrap-directives",
+			"UIBSDCtrl",
+			"ui-bootstrap-directives",
+			"UIBSD",
+			"Dashboards",
+			"UIBSD",
+			"ui-bootstrap-directives",
+			"ModuleCtrl",
+			"cards",
+			"CardsModule",
+			"CardsCtrl",
+			"ModuleCtrl",
+			"UIBSD",
+			"ui-bootstrap-directives",
+			"Module",
+			"ModuleCtrl",
+			"Module",
+			"controller: 'Ctrl',",
+			"Ctrl",
+			"ui-bootstrap-directives",
+			"UIBSD",
+			".controller('Ctrl', Ctrl)",
+			"import Ctrl from",
+			"new controller",
+			"getNavItems",
+			"Module One",
+			"sandbox",
+			"character",
+			"dashboards",
+			"OverviewCtrl",
+			"MainCtrl",
+			"html",
+			"feature",
+			"family",
+			"ge-sans",
+			".\n",
+			"tag",
+			"border-bottom",
+			"navigation",
+			"pipeline",
+			"minzoom",
+			"noa",
+			"temperature1",
+			"addcsvlayer",
+			"csvjsonfile",
+			"convertToJSON",
+			"togglecustomlayer",
+			"togglecustomerlayer",
+			"refreshLayer_csvMarkers",
+			"createcsvmarkers",
+			"csv",
+			"openlayers",
+			"mapoverlay",
+			"markers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"controller: 'ModuleCtrl',",
+			"i.controller('ModuleCtrl', ModuleCtrl)",
+			"import ModuleCtrl from",
+			"//$log.info",
+			"(Eng.)",
+			"(Eng. End)",
+			"(Eng. Start)",
+			"(Eng. End)",
+			"(Eng. Start)",
+			"Station Series (eng)",
+			"icon-map-marker",
+			"pipelineTerminators",
+			"5.25"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "px-simple-area-chart.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7286,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 983.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "demo/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3061.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bower_components/px-vis/px-vis-behavior-chart.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5491,
+								5491
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2018.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bower_components/px-vis/px-vis-behavior-common.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 71561,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8561,
+								8575
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 674.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "px-simple-area-chart.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
